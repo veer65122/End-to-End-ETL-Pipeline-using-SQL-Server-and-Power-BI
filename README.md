@@ -99,7 +99,7 @@ Loaded transformed data into SQL Server tables for reporting and analytics.
 ---
 
 
-# 📊 SQL Transformations
+#  SQL Transformations
 
 Some of the SQL operations performed include:
 
@@ -119,7 +119,7 @@ Some of the SQL operations performed include:
 
 ---
 
-# 📈 Power BI Features Used
+#  Power BI Features Used
 
 - Power Query
 - DAX Measures
@@ -135,7 +135,7 @@ Some of the SQL operations performed include:
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -150,9 +150,9 @@ Some of the SQL operations performed include:
 
 ---
 
-# 📷 Dashboard Preview
+#  Dashboard Preview
 
-> [images/executive_overview.png](https://github.com/veer65122/End-to-End-ETL-Pipeline-using-SQL-Server-and-Power-BI/blob/main/Dashboard_images/1.png?raw=true)
+> [images/1.png](https://github.com/veer65122/End-to-End-ETL-Pipeline-using-SQL-Server-and-Power-BI/blob/main/Dashboard_images/1.png?raw=true)
 
 ```
 
