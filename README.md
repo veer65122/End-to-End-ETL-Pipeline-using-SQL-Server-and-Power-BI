@@ -32,28 +32,27 @@ The project covers:
 
 #  Project Architecture
 
-
-                    Netflix Dataset (CSV)
+                     Netflix Dataset (CSV)
                               │
                               ▼
                     Python (Pandas)
                               │
                               ▼
-                 SQLAlchemy Database Connection
+                   SQLAlchemy Database Connection
                               │
                               ▼
                     SQL Server (Raw Table)
                               │
                               ▼
-          SQL Cleaning & Transformation Scripts
+            SQL Cleaning & Transformation Scripts
                               │
-          ┌───────────────────────────────────┐
-          │ Remove Duplicates                 │
-          │ Handle Missing Values             │
-          │ Correct Data Types                │
-          │ Normalize Genre Data             │
-          │ Standardize Country Information  │
-          └───────────────────────────────────┘
+            ┌───────────────────────────────────┐
+            │ Remove Duplicates                 │
+            │ Handle Missing Values             │
+            │ Correct Data Types                │
+            │ Normalize Genre Data             │
+            │ Standardize Country Information  │
+            └───────────────────────────────────┘
                               │
                               ▼
                  Cleaned SQL Server Database
@@ -63,7 +62,6 @@ The project covers:
                               │
                               ▼
              Interactive Business Intelligence Dashboard
-
 
 ---
 
@@ -154,7 +152,7 @@ Some of the SQL operations performed include:
 
 > ![images alt](https://github.com/veer65122/End-to-End-ETL-Pipeline-using-SQL-Server-and-Power-BI/blob/main/Dashboard_images/1.png?raw=true)
 
-```
+ 
 
 #  Key Business Insights
 
@@ -204,6 +202,6 @@ Through this project, I gained practical experience in:
 
 GitHub: https://github.com/veer65122
 
-LinkedIn: *(Add Your LinkedIn Profile)*
 
 ---
+
