@@ -152,7 +152,7 @@ Some of the SQL operations performed include:
 
 #  Dashboard Preview
 
-> [images/1.png](https://github.com/veer65122/End-to-End-ETL-Pipeline-using-SQL-Server-and-Power-BI/blob/main/Dashboard_images/1.png?raw=true)
+> [images alt](https://github.com/veer65122/End-to-End-ETL-Pipeline-using-SQL-Server-and-Power-BI/blob/main/Dashboard_images/1.png?raw=true)
 
 ```
 
