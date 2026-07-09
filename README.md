@@ -15,9 +15,9 @@ This project demonstrates how raw Netflix content data can be transformed into m
 
 The pipeline follows the traditional ETL workflow:
 
-```
+
 Extract → Transform → Load → Analyze → Visualize
-```
+
 
 The project covers:
 
@@ -31,6 +31,7 @@ The project covers:
 ---
 
 #  Project Architecture
+
 
                      Netflix Dataset (CSV)
                               │
@@ -152,7 +153,7 @@ Some of the SQL operations performed include:
 
 > ![images alt](https://github.com/veer65122/End-to-End-ETL-Pipeline-using-SQL-Server-and-Power-BI/blob/main/Dashboard_images/1.png?raw=true)
 
- 
+---
 
 #  Key Business Insights
 
@@ -179,8 +180,7 @@ Through this project, I gained practical experience in:
 - Data Visualization
 - Power BI Dashboard Design
 - Business Intelligence Reporting
-- Data Storytelling
-
+  
 ---
 
 #  Future Improvements
