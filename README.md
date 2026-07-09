@@ -32,7 +32,7 @@ The project covers:
 
 #  Project Architecture
 
-```
+
                     Netflix Dataset (CSV)
                               │
                               ▼
@@ -63,7 +63,7 @@ The project covers:
                               │
                               ▼
              Interactive Business Intelligence Dashboard
-```
+
 
 ---
 
@@ -152,11 +152,11 @@ Some of the SQL operations performed include:
 
 #  Dashboard Preview
 
-> [images alt](https://github.com/veer65122/End-to-End-ETL-Pipeline-using-SQL-Server-and-Power-BI/blob/main/Dashboard_images/1.png?raw=true)
+> ![images alt](https://github.com/veer65122/End-to-End-ETL-Pipeline-using-SQL-Server-and-Power-BI/blob/main/Dashboard_images/1.png?raw=true)
 
 ```
 
-# 📌 Key Business Insights
+#  Key Business Insights
 
 ✔ Movies account for the majority of Netflix's content.
 
@@ -170,7 +170,7 @@ Some of the SQL operations performed include:
 
 ---
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -185,7 +185,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - Incremental ETL Loading
 - SQL Stored Procedures
@@ -198,7 +198,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-# 📬 Contact
+#  Contact
 
 **Veer**
 
