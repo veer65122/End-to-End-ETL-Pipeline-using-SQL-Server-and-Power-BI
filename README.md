@@ -1,4 +1,4 @@
-#  End-to-End ETL Pipeline using SQL Server and Power BI
+#  End-to-End ETL Pipeline using SQL Server
 
 > An end-to-end Data Engineering and Business Intelligence project demonstrating the complete ETL process—from extracting raw Netflix data to building an interactive Power BI dashboard for business insights.
 
